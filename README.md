@@ -1,0 +1,2 @@
+# gunshop
+open index.html
